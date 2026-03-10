@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://osteopathe-le-grand-quevilly.fr/</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/cabinet.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/consultation.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/pour-qui.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/urgence.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/domicile.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/contact.html</loc>
-  </url>
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/mentions-legales.html</loc>
-  </url>
-</urlset>
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://osteopathe-le-grand-quevilly.fr/</loc>
     <priority>1.0</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -61,5 +34,10 @@
     <loc>https://osteopathe-le-grand-quevilly.fr/contact.html</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://osteopathe-le-grand-quevilly.fr/mentions-legales.html</loc>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
   </url>
 </urlset>
