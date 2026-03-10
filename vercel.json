@@ -1,0 +1,39 @@
+{
+  "redirects": [
+    {
+      "source": "/cabinet/",
+      "destination": "/cabinet.html",
+      "permanent": true
+    },
+    {
+      "source": "/consultation/",
+      "destination": "/consultation.html",
+      "permanent": true
+    },
+    {
+      "source": "/pour-qui/",
+      "destination": "/pour-qui.html",
+      "permanent": true
+    },
+    {
+      "source": "/urgence/",
+      "destination": "/urgence.html",
+      "permanent": true
+    },
+    {
+      "source": "/domicile/",
+      "destination": "/domicile.html",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/mentions-legales/",
+      "destination": "/mentions-legales.html",
+      "permanent": true
+    }
+  ]
+}
