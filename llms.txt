@@ -1,0 +1,23 @@
+# Cabinet d'Ostéopathie du Grand-Quevilly
+
+> Cabinet d'ostéopathie situé au 8 avenue des Provinces, 76120 Le Grand-Quevilly (agglomération rouennaise, Normandie). Praticien : Thomas Lefebvre, ostéopathe D.O. Téléphone : 02 35 07 68 42.
+
+## Pages du site
+
+- [Accueil](https://osteopathe-le-grand-quevilly.fr/) : Présentation générale du cabinet, zones de prise en charge, FAQ et prise de rendez-vous.
+- [Cabinet](https://osteopathe-le-grand-quevilly.fr/cabinet.html) : Présentation de l'ostéopathe Thomas Lefebvre (formation, spécialisations), description du cabinet et informations d'accès.
+- [Consultation](https://osteopathe-le-grand-quevilly.fr/consultation.html) : Déroulement d'une séance, tarifs (60 € adulte, 55 € nourrisson/enfant, 70 € domicile), remboursement mutuelle et conseils pour la première consultation.
+- [Pour qui ?](https://osteopathe-le-grand-quevilly.fr/pour-qui.html) : Publics concernés — adultes, nourrissons/bébés, femmes enceintes (prénatal et post-partum), sportifs, seniors.
+- [Urgence](https://osteopathe-le-grand-quevilly.fr/urgence.html) : Créneaux prioritaires sous 24-48h pour lumbago aigu, torticolis, blocages articulaires, douleurs post-traumatiques.
+- [À domicile](https://osteopathe-le-grand-quevilly.fr/domicile.html) : Consultation à domicile au Grand-Quevilly et communes limitrophes (Petit-Quevilly, Sotteville-lès-Rouen, Canteleu, Rouen rive gauche, Saint-Étienne-du-Rouvray).
+- [Contact](https://osteopathe-le-grand-quevilly.fr/contact.html) : Formulaire de rendez-vous, coordonnées, horaires (lun-ven 9h-19h, sam 9h-13h) et plan d'accès.
+
+## Informations clés
+
+- **Adresse** : 8 avenue des Provinces, 76120 Le Grand-Quevilly
+- **Téléphone** : 02 35 07 68 42
+- **Email** : contact@osteopathe-le-grand-quevilly.fr
+- **Horaires** : Lundi–Vendredi 9h–19h, Samedi 9h–13h
+- **Tarifs** : 60 € (adulte au cabinet), 55 € (nourrisson/enfant), 70 € (à domicile)
+- **Sans ordonnance** : oui, profession de première intention
+- **Remboursement** : non pris en charge par la Sécurité sociale, remboursement possible selon mutuelle
