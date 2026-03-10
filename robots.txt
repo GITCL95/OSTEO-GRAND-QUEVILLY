@@ -2,3 +2,8 @@ User-agent: *
 Allow: /
 
 Sitemap: https://osteopathe-le-grand-quevilly.fr/sitemap.xml
+
+User-agent: *
+Allow: /
+
+Sitemap: https://osteopathe-le-grand-quevilly.fr/sitemap.xml
