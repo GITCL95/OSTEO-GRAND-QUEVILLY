@@ -40,4 +40,16 @@
     <priority>0.3</priority>
     <changefreq>yearly</changefreq>
   </url>
+  <url>
+    <loc>https://osteopathe-le-grand-quevilly.fr/blog.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://osteopathe-le-grand-quevilly.fr/blog-meilleur-osteopathe-grand-quevilly.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
